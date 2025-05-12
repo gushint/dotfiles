@@ -21,3 +21,9 @@ sudo apt-get install -y \
 	python3-venv \
 	file \
 	ripgrep \
+	gnome-tweaks
+# Nice to have snaps
+sudo snap install \
+	discord \
+	spotify \
+	chromium \
