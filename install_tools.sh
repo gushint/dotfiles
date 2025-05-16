@@ -25,5 +25,12 @@ sudo apt-get install -y \
 # Nice to have snaps
 sudo snap install \
 	discord \
-	spotify \
-	chromium \
+	chromium
+
+
+if ! command -v rustup &> /dev/null; then
+	curl https://sh.rustup.rs -sSf | sh -s -- -y
+	source "$HOME/.cargo/env"
+fi
+
+
