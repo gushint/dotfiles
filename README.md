@@ -1,3 +1,3 @@
-# Dotfiles For Hyprland + Arch
+# Dotfiles for everything
 
-Bye Bye Ubuntu: Hello Arch!
+reset
